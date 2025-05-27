@@ -1,0 +1,6 @@
+name: EndSpawnTeleport
+version: 1.0.0
+description: Redirects End portal teleportation to world spawn instead of default End platform
+author: EndSpawnTeleport
+main: com.arkflame.endspawnteleport.EndSpawnTeleport
+api-version: 1.13
