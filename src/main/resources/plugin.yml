@@ -1,6 +1,6 @@
-name: EndSpawnTeleport
+name: PortalsDeluxe
 version: 1.0.0
-description: Redirects End portal teleportation to world spawn instead of default End platform
-author: EndSpawnTeleport
+description: Redirects end portal, prevents portal trapping
+author: PortalsDeluxe
 main: com.arkflame.endspawnteleport.EndSpawnTeleport
 api-version: 1.13

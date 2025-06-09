@@ -5,9 +5,9 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.arkflame.endspawnteleport</groupId>
-    <artifactId>EndSpawnTeleport</artifactId>
+    <artifactId>PortalsDeluxe</artifactId>
     <version>1.0.0</version>
-    <name>EndSpawnTeleport</name>
+    <name>PortalsDeluxe</name>
     <description>Redirects End portal teleportation to world spawn instead of default End platform</description>
 
     <properties>
